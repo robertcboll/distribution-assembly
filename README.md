@@ -11,7 +11,7 @@ A maven assembly plugin descriptor used to aggregate shaded jar, bin/* and conf/
 		<dependencies>
 			<dependency>
 				<groupId>com.robertcboll.assembly</groupId>
-				<artifactId>dropwizard-distribution-assembler</artifactId>
+				<artifactId>distribution-assembly</artifactId>
 				<version>${project.version}</version>
 			</dependency>
 		</dependencies>
