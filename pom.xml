@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.robertcboll.assembly</groupId>
+    <artifactId>distribution-assembly</artifactId>
+    <version>0.1</version>
+
+    <name>Distribution Assembly</name>
+    <description>
+        An assembly plugin descriptor used to aggregate shaded jar, bin/* and conf/* into a compressed tar for distribution. Use descriptor 'dist'.
+    </description>
+
+</project>
