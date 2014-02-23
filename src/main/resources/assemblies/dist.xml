@@ -21,6 +21,8 @@
             <fileMode>0744</fileMode>
             <excludes>
                 <exclude>original-*.jar</exclude>
+                <exclude>*-sources.jar</exclude>
+                <exclude>*-javadoc.jar</exclude>
             </excludes>
             <includes>
                 <include>*.jar</include>
